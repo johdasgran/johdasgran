@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Java, PHP and JavaScript
 - 🌱 I’m currently learning Java
 
-![animation_lottie_purple](https://user-images.githubusercontent.com/69698539/129458367-ba0307a3-7926-484d-876b-f989506c2ff5.gif)
+![animation_xd](https://user-images.githubusercontent.com/69698539/129458604-65b9025e-0a24-42c9-ae07-3d122004402d.gif)
 
 
 <!---
