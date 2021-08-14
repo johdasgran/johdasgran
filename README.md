@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @johdasgran
-- 👀 I’m interested in Python, Java, PHP and JavaScript
+- 👀 I’m interested in Python, Java, PHP and JavaScript  
 - 🌱 I’m currently learning Java
 
-![animation_xd](https://user-images.githubusercontent.com/69698539/129458604-65b9025e-0a24-42c9-ae07-3d122004402d.gif)
+![animation_brujo](https://user-images.githubusercontent.com/69698539/129458846-b7fd25cf-406f-4f15-9d6a-5ab4b52b7a53.gif)
 
 
 <!---
