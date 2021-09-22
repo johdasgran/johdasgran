@@ -1,3 +1,5 @@
+## Welcome! 👋
+
 - 👋 Hi, I’m @johdasgran
 - 👀 I’m interested in Python, Java, PHP and JavaScript                                                
 - 🌱 I’m currently learning JavaScript
