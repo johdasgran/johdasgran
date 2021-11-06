@@ -1,11 +1,15 @@
-#  ✨ Welcome! ✨
+#  🐱 Welcome! 🐱
 
-- 👋 Hi, I’m @johdasgran
+### 👋 Hi, I’m @johdasgran
+
+  ![animation_brujo](https://user-images.githubusercontent.com/69698539/129458846-b7fd25cf-406f-4f15-9d6a-5ab4b52b7a53.gif)
+
 - 👀 I’m interested in Python, Java, PHP and JavaScript                                                
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning <strong>M.E.R.N</strong>
 - 💞️ I’m collaborating on [ColCeres](https://github.com/Learn-frontend-MinTic/ColCeres.github.io)
 
-![animation_brujo](https://user-images.githubusercontent.com/69698539/129458846-b7fd25cf-406f-4f15-9d6a-5ab4b52b7a53.gif)
+
+
 
 
 
