@@ -3,7 +3,7 @@
 ### 👋 Hi, I’m @johdasgran 
 
 
-- 👀 I’m interested in JavaScript                                                
+- 👀 I’m interested in React                                               
 - 🌱 I’m currently learning <strong>M.E.R.N</strong>
 
 
