@@ -2,15 +2,12 @@
 
 ### 👋 Hi, I’m @johdasgran 
 
-
-- 👀 I’m interested in React                                               
-- 🌱 I’m currently learning <strong>M.E.R.N</strong>
-
-
 ![animation_astronaut](https://user-images.githubusercontent.com/69698539/146591779-fe8325f0-4c2f-4c36-a6ef-7589c911e9ec.gif)
 
 
 <!---
+- 👀 I’m interested in React                                               
+- 🌱 I’m currently learning <strong>M.E.R.N</strong>
 - 💞️ I’m collaborating on [ColCeres](https://github.com/Learn-frontend-MinTic/ColCeres.github.io)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
